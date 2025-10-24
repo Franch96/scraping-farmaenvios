@@ -169,9 +169,3 @@ Si se invoca la Function desde un **pipeline de Synapse**, debe configurarse la 
 
 ---
 
-## 👥 Mantenimiento y Colaboración
-
-Proyecto mantenido por el equipo de **FarmaEnvios Data & Automation**.  
-Para reportar incidencias o mejoras, crear un **issue** en GitHub con la etiqueta `scraping` o `infra`.
-
----
